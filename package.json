@@ -1,0 +1,36 @@
+{
+    "name": "starter-bootstrap4-scss",
+    "version": "1.0.0",
+    "description": "Starter Bootstrap 4",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ARAYASOFT/starter-bootstrap4-scss.git"
+    },
+    "keywords": [
+        "bootstrap4"
+    ],
+    "author": "Arayasoft.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ARAYASOFT/starter-bootstrap4-scss/issues"
+    },
+    "homepage": "https://github.com/ARAYASOFT/starter-bootstrap4-scss#readme",
+    "dependencies": {
+        "browser-sync": "^2.15.0",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^3.1.1",
+        "gulp-bower": "0.0.13",
+        "gulp-concat": "^2.6.0",
+        "gulp-cssmin": "^0.1.7",
+        "gulp-customize-bootstrap": "0.0.6",
+        "gulp-jshint": "^2.*",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-order": "^1.1.1",
+        "gulp-sass": "^2.3.2",
+        "merge-stream": "^1.0.0"
+    }
+}
